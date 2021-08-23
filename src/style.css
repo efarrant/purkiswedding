@@ -1,6 +1,6 @@
 :root {
     --primary-color: rgb(245, 247, 248);
-    --primary-color-opacity: rgba(242, 246, 248, 0.966);
+    --primary-color-opacity: rgba(242, 246, 248, 0.78);
     --primary-color-opacity-less: rgba(239, 242, 245, 0.6);
     --secondary-color: #6b99ce;
     --accent-color: #10182b;
@@ -85,7 +85,7 @@ h1 {
 }
 
 .main-body {
-background: var(--primary-color-opacity-less);
+background: var(--primary-color-opacity);
     width: 75%;
     display: block;
     margin: 0 auto;
