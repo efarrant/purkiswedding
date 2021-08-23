@@ -1,5 +1,5 @@
 function Password() {
-    let password = prompt("Welcome to Emma and Sam's wedding website! Please enter the password:");
+    let password = prompt("Welcome to Sam and Emma's wedding website! Please enter the password:");
     if (password=="purkiswedding2021") {
     alert("Thank you!")
     }
