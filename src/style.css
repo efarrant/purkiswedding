@@ -18,6 +18,10 @@ a:hover {
     font-family: var(--font-family);
     font-size: 1vw;
 }
+.website-in-production {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .navbar-brand {
     color: var(--accent-color) !important;
     font-family: var(--fontfamily);
