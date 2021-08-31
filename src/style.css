@@ -20,7 +20,7 @@ a:hover {
 }
 .website-in-production {
     font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--font-family);
 }
 .navbar-brand {
     color: var(--accent-color) !important;
@@ -225,6 +225,16 @@ i {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     }
+    .homepage-words{
+        font-size: 25px;
+    }
+    .names {
+        font-size: 33px;
+    }
+    .proposal {
+        width: 300px;
+    }
+    
     .page-title {
         font-size: 50px;
         width: 90%;
