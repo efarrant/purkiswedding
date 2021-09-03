@@ -229,13 +229,13 @@ i {
     }
     .website-in-production {
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--font-family);
     }
     .homepage-words{
         font-size: 25px;
     }
-    .names {
-        font-size: 33px;
+    .name {
+        font-size: 26px !important;
     }
     .proposal {
         width: 300px;
