@@ -212,6 +212,12 @@ i {
    
     .nav-link {
         font-size: 15px;
+        color: navy !important;
+    
+    }
+    .navbar {
+        background-color: rgb(71, 97, 145,0.9);
+    
     }
     .main-body {
         margin: 0 auto;
@@ -236,7 +242,7 @@ i {
     }
     
     .page-title {
-        font-size: 50px;
+        font-size: 40px;
         width: 90%;
     }
     .header {
