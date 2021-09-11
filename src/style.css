@@ -1,5 +1,5 @@
 :root {
-    --primary-color: rgb(245, 247, 248);
+    --primary-color: rgb(162, 190, 231);
     --primary-color-opacity: rgba(242, 246, 248, 0.78);
     --primary-color-opacity-less: rgba(239, 242, 245, 0.6);
     --secondary-color: #6b99ce;
@@ -28,6 +28,9 @@ a:hover {
 }
 .nav-link {
     color: var(--secondary-color) !important;
+}
+.navbar-toggler-icon {
+    color: cyan !important;
 }
 #navbarNavAltMarkup {
     color: var(--accent-color) !important;
