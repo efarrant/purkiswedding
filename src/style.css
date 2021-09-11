@@ -2,7 +2,7 @@
     --primary-color: rgb(162, 190, 231);
     --primary-color-opacity: rgba(242, 246, 248, 0.78);
     --primary-color-opacity-less: rgba(239, 242, 245, 0.6);
-    --secondary-color: #6b99ce;
+    --secondary-color: #152333;
     --accent-color: #10182b;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
     --fontfamily-2: 'Old Standard TT', serif;
@@ -210,8 +210,6 @@ i {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
 }
-
-
 
 @media (max-width: 800px) {
    
