@@ -187,6 +187,8 @@ i {
 .proposal {
     border-radius: 5px;
     padding: 10px;
+    display: block;
+    margin: 0 auto;
 }
 .map {
     width:300px;
@@ -211,11 +213,11 @@ i {
 
 
 
-@media (max-width: 576px) {
+@media (max-width: 800px) {
    
     .nav-link {
         font-size: 15px;
-        color: navy !important;
+        color: rgb(3, 3, 82) !important;
     
     }
     .navbar {
