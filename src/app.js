@@ -6,7 +6,6 @@ function Password() {
     else {
         alert("Sorry, this is not correct");
         window.stop();
-
     }
 }
 
